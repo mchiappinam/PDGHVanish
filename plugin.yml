@@ -1,0 +1,16 @@
+name: PDGHVanish
+main: me.mchiappinam.pdghvanish.Main
+version: 1.0
+author: mchiappinam
+website: http://pdgh.com.br/
+depends: Legendchat
+commands:
+   v:
+      description: Info.
+      usage: /<command>
+   von:
+      description: Info.
+      usage: /<command>
+   voff:
+      description: Info.
+      usage: /<command>
